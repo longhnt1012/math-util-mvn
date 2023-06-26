@@ -22,7 +22,7 @@ public class MathUtilityTest {
        assertEquals(2, getFactorial(2));
        assertEquals(6, getFactorial(3));
        assertEquals(120, getFactorial(5));
-       assertEquals(7200, getFactorial(6));
+       assertEquals(720, getFactorial(6));
    }
    
    //DDT    LÀ 1 PHẦN MỞ RỘNG CỦA CÁC UNIT TEST FRAMEWORK
